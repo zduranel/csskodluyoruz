@@ -76,6 +76,70 @@ body{
     height: 120px;
     width: 300px;
 }
+.logo{
+    width: 350px;
+    margin: auto;
+  }
+  
+.girisbar{
+      width: 300px;
+      margin-bottom: 20px;
+  }
+  
+.mailbar{
+      width: 150px;
+      margin-bottom: 20px;
+}
+  
+  
+.marg{
+      margin: 10px;
+}
+  
+.topbar{
+      margin-block-start: 10px;
+      margin-top: 10px;
+      background-color:rgb(206, 204, 202);
+      text-align: center;
+  }
+  
+  
+.box1{
+      width: 36%;
+      float: left;
+      text-align: center;
+      padding-top: 5px;
+      padding-bottom: 10px;
+      background-color:#7EE5DA ;
+      height: 150px;
+      margin-right: 9px;
+      }
+      
+.box2 {
+      width: 26%;
+      float: left;
+      text-align: center;
+      padding-top: 5px;
+      padding-bottom: 10px;
+      background-color: #70CCC2;
+      height: 150px;
+      margin-right: 9px;
+  }
+      
+.box3{
+      width: 37%;
+      float: left;
+      text-align: center;
+      padding-top: 5px;
+      padding-bottom: 10px;
+      background-color: #62B3AA;
+      height: 150px;
+      font-size: small;
+  }
+  
+.footertext{
+      text-align: center;
+}
 .searchbox{
         background-color:rgb(190, 185, 185);
         margin-right: 1%;
